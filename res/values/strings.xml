@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StarView</string><string name="menu_search">rechercher</string><string name="menu_share">partager</string><string name="menu_map">lieu</string><string name="menu_calendar">date</string><string name="menu_checkable">ok</string><string name="menu_settings">Paramètres</string><string name="menu_gps">GPS</string><string name="menu_const">Constellation</string><string name="menu_manuel">Mode Manuel</string><string name="menu_propos">À Propos</string><string name="menu_quit">Quitter</string><string name="action_settings">Settings</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+</resources>

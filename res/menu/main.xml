@@ -1,0 +1,55 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@android:drawable/ic_menu_search"
+        android:showAsAction="always"
+        android:title="@string/menu_search"/>
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:showAsAction="always"
+        android:title="@string/menu_share"/>
+    <item
+        android:id="@+id/menu_map"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_map"/>
+    <item
+        android:id="@+id/menu_calendar"
+        android:icon="@android:drawable/ic_menu_month"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_calendar"/>
+   <item
+        android:id="@+id/menu_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_settings">
+        <menu>
+		    <item
+		    android:id="@+id/menu_gps"
+		    android:checkable="true"
+		    android:showAsAction="always"
+		    android:title="@string/menu_gps" />
+		    <item
+		    android:id="@+id/menu_const"
+		    android:checkable="true"
+		    android:showAsAction="always"
+		    android:title="@string/menu_const" />
+		    <item
+		    android:id="@+id/menu_manuel"
+		    android:checkable="true"
+		    android:showAsAction="always"
+		    android:title="@string/menu_manuel" />
+		</menu>
+		</item>
+	<item android:id="@+id/propos" android:title="@string/menu_propos"  android:icon="@android:drawable/ic_menu_info_details"/>
+	<item
+        android:id="@+id/menu_quit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:showAsAction="always"
+        android:title="@string/menu_quit"/>
+    
+
+</menu>
