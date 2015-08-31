@@ -1,7 +1,4 @@
-# StarView
-Application android de carte du ciel
-
-StarView est une application Android de carte du ciel, développée par Alexandre Daussy, Quentin Jacquement, Pierre Leriche et Michel Nussbaum dans le cadre du projet tutoré de seconde année de DUT Infotmatique.
+StarView est une application Android de carte du ciel, développée par Alexandre Daussy, Quentin Jacquement, Pierre Leriche et Michel Nussbaum dans le cadre du projet tutoré de seconde année de DUT Informatique.
 
 Nous devions faire une application :
 - qui permette de visualiser les étoiles dans le ciel
